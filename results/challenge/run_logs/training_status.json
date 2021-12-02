@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.2+cu111"
+    },
+    "4th_week": {
+        "checkpoints": [
+            {
+                "steps": 8499999,
+                "file_path": "results\\Challenge\\4th_week\\4th_week-8499999.onnx",
+                "reward": 139.4500002861023,
+                "creation_time": 1635959356.5058148,
+                "auxillary_file_paths": [
+                    "results\\Challenge\\4th_week\\4th_week-8499999.pt"
+                ]
+            },
+            {
+                "steps": 8999977,
+                "file_path": "results\\Challenge\\4th_week\\4th_week-8999977.onnx",
+                "reward": 140.26666704813638,
+                "creation_time": 1635962599.0799463,
+                "auxillary_file_paths": [
+                    "results\\Challenge\\4th_week\\4th_week-8999977.pt"
+                ]
+            },
+            {
+                "steps": 9499983,
+                "file_path": "results\\Challenge\\4th_week\\4th_week-9499983.onnx",
+                "reward": 140.17499814714705,
+                "creation_time": 1635965839.668605,
+                "auxillary_file_paths": [
+                    "results\\Challenge\\4th_week\\4th_week-9499983.pt"
+                ]
+            },
+            {
+                "steps": 9999982,
+                "file_path": "results\\Challenge\\4th_week\\4th_week-9999982.onnx",
+                "reward": 140.19687271118164,
+                "creation_time": 1635969078.6762123,
+                "auxillary_file_paths": [
+                    "results\\Challenge\\4th_week\\4th_week-9999982.pt"
+                ]
+            },
+            {
+                "steps": 10000042,
+                "file_path": "results\\Challenge\\4th_week\\4th_week-10000042.onnx",
+                "reward": 140.1939373594342,
+                "creation_time": 1635969078.8672128,
+                "auxillary_file_paths": [
+                    "results\\Challenge\\4th_week\\4th_week-10000042.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000042,
+            "file_path": "results\\Challenge\\4th_week.onnx",
+            "reward": 140.1939373594342,
+            "creation_time": 1635969078.8672128,
+            "auxillary_file_paths": [
+                "results\\Challenge\\4th_week\\4th_week-10000042.pt"
+            ]
+        }
+    }
+}
