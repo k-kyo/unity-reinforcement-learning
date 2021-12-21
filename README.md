@@ -1,5 +1,5 @@
 # unity-reinforcement-learning
-### unity mlagentを用いて、AgentであるSDUnityちゃんを強化学習(模倣学習+カリキュラム学習)させました
+### Unity ML-Agentsを用いて、AgentであるSDUnityちゃんを強化学習(模倣学習+カリキュラム学習)させました
 ### Tricks
 - Agent側の複数キーの同時入力許可
 - SDUnityちゃんの動作可能なアクションを８方向に制限
@@ -23,4 +23,4 @@
 - python3.8
 - Unity
 - SDUnity chan
-- unity mlagent
+- Unity ML-Agents
